@@ -1,5 +1,6 @@
 # Tic-Tac-Toe-Python-
 
+Game where the player plays with 'X' and Computer plays with '0'
 
 Some Screenshots from the game
 
